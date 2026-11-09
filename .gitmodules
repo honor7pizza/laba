@@ -1,0 +1,3 @@
+[submodule "cicd/themes/ananke"]
+	path = cicd/themes/ananke
+	url = https://github.com/gohugo-ananke/ananke
